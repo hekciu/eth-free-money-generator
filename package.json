@@ -1,0 +1,15 @@
+{
+  "name": "ethereum-bot",
+  "version": "1.0.0",
+  "description": "\"earn money free\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'skibidi'",
+	"start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
